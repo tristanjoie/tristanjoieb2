@@ -1,1 +1,5 @@
-# tristanjoieb2
+As someone who works on the web, I tend to see READMEs almost strictly for the various software building blocks used for building apps and websites. Content management systems, jQuery plugins, CMS plugins, etc. They’re pretty simple and aren’t (normally) the full documentation. But looking at how Wikipedia defines what a README is above, I believe that websites are a type of “computer software”. If that’s the case, then having a README for websites makes sense.
+
+The bigger, over-arching reason a README is used is so that potential users can get a better understanding of what the project is about. In the case of websites, web developers will often create a user guide for clients. However, I don’t think I’ve ever seen a website I’ve taken over contain a README or anything close to one that's for the developer (whomever that may be months or years down the road). At least not contained within the production website files.
+
+“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”
